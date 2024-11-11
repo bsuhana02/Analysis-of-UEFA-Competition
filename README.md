@@ -17,7 +17,8 @@ UEFA's responsibilities include regulating rules of the game, organizing interna
 
 The dataset provided consists of five CSV files: Goals, Matches, Players, Stadiums, and Teams. These files contain comprehensive data on various aspects of UEFA competitions, enabling detailed analysis and insights into football dynamics. The project focuses on analyzing these datasets using SQL to answer specific questions about teams, players, goals, matches, and stadiums.
 
-**Data Dictionary **
+Data Dictionary
+
 Goals.csv
 
  Column Name 
